@@ -1,0 +1,10 @@
+.card-image{
+	height: 300px;
+	object-fit: contain;
+}
+ul{
+	width: 8%;
+}
+.form-navigation{
+	top: 100px;
+}
